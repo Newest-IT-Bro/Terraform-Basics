@@ -97,6 +97,9 @@ See screenshots below
 
 ## Errors
 
+* You may run into errors, if you dont configure the subnets properly.
+* Adjust cidr ranges in your configuration. 
+
 See screenshots below
 
 ![errors](images/errors.jpg)
@@ -124,4 +127,4 @@ Unless you can print your own money, you will need to tear down your deployment.
 ## Author
 
 Executive producer: Newest-It-Bro
-# Terraform-Basics
+
